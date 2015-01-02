@@ -18,7 +18,9 @@ app.get('/portfolio', function(req, res) {
   res.sendFile(__dirname + '/views/portfolio.html');
 });
 
-var server = app.listen(3000, function () {
+app.set('port', (process.env.PORT || 5000));
+
+var server = app.listen(app.get('port'), function () {
 
   var host = server.address().address
   var port = server.address().port
