@@ -57,7 +57,7 @@ border:solid 3px #669DC6;
 #portfolio h1{
 	clear:both;
 	font-size: 60px;
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster';
 	text-align: center;
 	padding-top:10px;
 }
@@ -65,7 +65,7 @@ border:solid 3px #669DC6;
 .aboutme h2{
 	clear:both;
 	font-size: 50px;
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster';
 	text-align: center;
 	padding-bottom: 10px;
 	padding-top: 30px;
@@ -75,7 +75,7 @@ border:solid 3px #669DC6;
 .work #resume h2{
 	clear:both;
 	font-size: 50px;
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster';
 	text-align: center;
 	border-top:solid 4px #669DC6;
 	padding-bottom: 20px;
@@ -87,7 +87,7 @@ border:solid 3px #669DC6;
 .work #education h2{
 	clear:both;
 	font-size: 50px;
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster';
 	text-align: center;
 	
 	padding-bottom: 20px;
@@ -98,7 +98,7 @@ border:solid 3px #669DC6;
 #portfolio h2{
 	clear:both;
 	font-size: 70px;
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster';
 	text-align: center;
 	color:#ff6666;
 	margin-top: 20px;
