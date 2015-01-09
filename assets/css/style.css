@@ -392,7 +392,10 @@ body #home{
 	}
 
 	#home h4{
-		width:110%;
+		width:109.5%;
+		padding-top: 20px;
+		font-size: 36.5px;
+		text-align: center;
 	}
 
 	header #nav a {
@@ -452,11 +455,7 @@ body #home{
 	#social-media2{
 		float:none;
 		margin-left:140px;
-		
-	}
 
-	#home h4{
-		padding-top: 20px;
 
     }
 
@@ -521,6 +520,9 @@ body #home{
 		margin-left: 80px;
 		margin-bottom: 20px;
 
+	}
+	#contact-bottom a{
+		margin-left: 60px;
 	}
 
 	#contact-me a:hover{
