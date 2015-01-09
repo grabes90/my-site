@@ -386,16 +386,21 @@ body #home{
 
 	}
 	#home p{
-		width:100%;
-		text-align: center;
-		font-size: 30px;
+		font-size: 27px;
+		width:80%;
+		margin-left: 55px;
 	}
 
 	#home h4{
-		width:109.5%;
+		width:110.5%;
 		padding-top: 20px;
 		font-size: 36.5px;
 		text-align: center;
+	}
+
+	#me img{
+		
+		margin-left:50px;
 	}
 
 	header #nav a {
@@ -522,7 +527,7 @@ body #home{
 
 	}
 	#contact-bottom a{
-		margin-left: 60px;
+		margin-left:140px;
 	}
 
 	#contact-me a:hover{
