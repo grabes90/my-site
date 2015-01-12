@@ -2,11 +2,12 @@ Develop on local
 1. cd in projects/my_site
 2. open project in sublime using: `subl .`
 3. start server by running `node index.js`
+4. Make your changes 
 
-
-How to make a change and get it up on production
+How to make a change and get it up on production(aka megangrabill.com)
 1. Make a change
 2. run `git status` to see the changes, double check them 
+3. git add .
 3. run `git commit -m "add message here" ` - This will commit your changes with the message
 4. run `git push origin head` - takes your local commit and pushes it up to github
 5. run `git push heroku master` - this will take your changes on github and push htem up to heroku
