@@ -459,6 +459,7 @@ body #home{
 
     .aboutme{
     	width:110%;
+    	background-image: none;
     }
 
     .work{
@@ -533,6 +534,10 @@ body #home{
 
 	}
 
+	.work {
+		background-image: none;
+	}
+
 	.work #resume h4{
 		margin-left: 30px;
 		margin-right: 155px;
@@ -562,7 +567,7 @@ body #home{
 	}
 
 	#wrapper{
-		width:440px;
+		width:420px;
 	}
 
 	.row1 {
@@ -601,7 +606,7 @@ body #home{
 	}
 
 	.row3 p{
-		width:80%;
+		width:75%;
 		text-align: left;
 		font-size: 25px;
 	}
