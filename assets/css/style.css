@@ -87,7 +87,6 @@ font-size: 30px;
 	font-size: 50px;
 	font-family: 'Lobster';
 	text-align: center;
-	
 	padding-bottom: 20px;
 	padding-top: 30px; 
 	color:#ff6666;
@@ -102,8 +101,6 @@ font-size: 30px;
 	margin-top: 20px;
 
 }
-
-
 
 .aboutme{
 	font-family: 'Poiret One';
@@ -318,10 +315,9 @@ body #home{
 	text-decoration: none;
 
 }
-
 #wrapper {
 	margin-bottom: 400px;
-	width: 1025px;
+	width:1000px;
 	margin: 30px auto;
 }
 
@@ -525,9 +521,11 @@ body #home{
 	}
 	#contact-bottom{
 		border-top: none;
+		margin-top: 20px;
 	}
 	#contact-bottom a{
 		margin-left:100px;
+		
 	}
 
 	#contact-me a:hover{
@@ -563,6 +561,50 @@ body #home{
 		font-size: 15px;
 	}
 
+	#wrapper{
+		width:440px;
+	}
+
+	.row1 {
+		width:100%;
+		border-bottom: 3px solid white;
+
+
+	}
+
+	.row1 p{
+		width:50%;
+		text-align: center;
+		border-bottom: none;
+		margin-left: 65px;
+		font-size: 25px;
+
+	}
+
+	.row2 {
+		width:100%;
+		margin-left: 30px;
+		border-top: none;
+		
+	}
+
+	.row2 p{
+		width:80%;
+		text-align: left;
+		font-size: 25px;
+		
+	}
+
+	.row3{
+		width:100;
+		margin-left: 40px;
+	}
+
+	.row3 p{
+		width:80%;
+		text-align: left;
+		font-size: 25px;
+	}
 
 
 
