@@ -435,7 +435,7 @@ body #home{
 
 	#bottom-info{
 		float:none;
-		margin-left: 20px;
+		margin-left: 70px;
 		margin-top: 10px;
 		font-size: 15px;
 		text-align: center;
@@ -512,6 +512,7 @@ body #home{
 		display:none;
 	}
 
+
 	#contact-me p{
 		font-size:30px;
 		width:300px;
@@ -523,9 +524,10 @@ body #home{
 	#contact-bottom{
 		border-top: none;
 		margin-top: 20px;
+
 	}
 	#contact-bottom a{
-		margin-left:100px;
+		margin-left:170px;
 		
 	}
 
@@ -566,6 +568,11 @@ body #home{
 		margin-left: 3px;
 		text-align: center;
 		font-size: 13px;
+	}
+
+	.work #education {
+		border-bottom: 3px solid #669DC6;
+		margin-bottom: 30px;
 	}
 
 	#wrapper{
