@@ -507,6 +507,15 @@ body #home{
 		margin-left: 100px;
 	}
 
+	#social-media2{
+	float:right;
+	width:80%;
+	margin-left:70px;
+	margin-bottom: 20px;
+	
+	}
+
+
 	#contact-me h2{
 		font-size: 30px;
 		margin-top: 20px;
@@ -527,7 +536,7 @@ body #home{
 
 	}
 	#contact-bottom a{
-		margin-left:120px;
+		margin-left:90px;
 		
 	}
 
@@ -620,13 +629,6 @@ body #home{
 		font-size: 25px;
 	}
 
-	#social-media2{
-	float:right;
-	margin-left:250px;
-	margin-right: 150px;
-	margin-bottom: 20px;
-	
-	}
 
 
 
