@@ -585,12 +585,13 @@ body #home{
 	}
 
 	#wrapper{
-		width:420px;
+		width:80%;
 	}
 
 	.row1 {
-		width:100%;
-		border-bottom: 3px solid white;
+		width:80%;
+		margin-left: 40px;
+	
 
 
 	}
@@ -619,7 +620,7 @@ body #home{
 	}
 
 	.row3{
-		width:100;
+		width:100%;
 		margin-left: 40px;
 	}
 
