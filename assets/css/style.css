@@ -392,21 +392,17 @@ body #home{
 
 	}
 	#home p{
-		font-size: 27px;
+		font-size: 24px;
 		width:80%;
-		margin-left: 55px;
+		margin-left: 40px;
+		
 	}
 
 	#home h4{
 		width:100%;
 		padding-top: 20px;
-		font-size: 25px;
+		font-size: 27px;
 		text-align: center;
-	}
-
-	#me img{
-		
-		margin-left:20px;
 	}
 
 	header #nav a {
