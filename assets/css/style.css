@@ -400,7 +400,7 @@ body #home{
 	#home h4{
 		width:100%;
 		padding-top: 20px;
-		font-size: 30px;
+		font-size: 25px;
 		text-align: center;
 	}
 
@@ -438,7 +438,7 @@ body #home{
 
 	#contact-bottom p{
 		text-align: center;
-		width:150px;
+		width:100%;
 		margin-left: 130px;
 		display:none;
 	}
@@ -460,12 +460,12 @@ body #home{
 
 
     .aboutme{
-    	width:110%;
+    	width:100%;
     	background-image: none;
     }
 
     .work{
-    	width:110%;
+    	width:100%;
     }
 
     .aboutme #grewup{
