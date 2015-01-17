@@ -587,27 +587,32 @@ body #home{
 	#wrapper{
 		width:80%;
 	}
+	#portfolio h1 {
+		font-size: 45px;
+	}
+	#portfolio h2{
+		font-size: 40px;
+	}
 
 	.row1 {
 		width:80%;
 		margin-left: 40px;
 	
 
-
 	}
 
 	.row1 p{
-		width:50%;
+		width:80%;
 		text-align: center;
 		border-bottom: none;
-		margin-left: 65px;
+		margin-left: 55px;
 		font-size: 25px;
 
 	}
 
 	.row2 {
 		width:100%;
-		margin-left: 30px;
+		margin-left: 5px;
 		border-top: none;
 		
 	}
@@ -621,7 +626,7 @@ body #home{
 
 	.row3{
 		width:100%;
-		margin-left: 40px;
+		margin-left: 10px;
 	}
 
 	.row3 p{
