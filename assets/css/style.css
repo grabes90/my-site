@@ -605,28 +605,28 @@ body #home{
 		width:80%;
 		text-align: center;
 		border-bottom: none;
-		margin-left: 55px;
+		margin-left: 30px;
 		font-size: 25px;
 
 	}
 
 	.row2 {
 		width:100%;
-		margin-left: 5px;
-		border-top: none;
+		
 		
 	}
 
 	.row2 p{
 		width:80%;
-		text-align: left;
+		margin-left: 30px;
+		text-align: center;
 		font-size: 25px;
 		
 	}
 
 	.row3{
 		width:100%;
-		margin-left: 10px;
+		
 	}
 
 	.row3 p{
