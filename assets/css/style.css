@@ -596,7 +596,7 @@ body #home{
 
 	.row1 {
 		width:80%;
-		margin-left: 40px;
+		margin-left: 30px;
 	
 
 	}
@@ -605,33 +605,36 @@ body #home{
 		width:80%;
 		text-align: center;
 		border-bottom: none;
-		margin-left: 30px;
+		margin-left: 20px;
 		font-size: 25px;
 
 	}
 
 	.row2 {
-		width:100%;
+		width:80%;
+		margin-left: 50px;
 		
 		
 	}
 
 	.row2 p{
 		width:80%;
-		margin-left: 30px;
+		margin-left: 10px;
 		text-align: center;
 		font-size: 25px;
 		
 	}
 
 	.row3{
-		width:100%;
+		width:80%;
+		margin-left: 50px;
 		
 	}
 
 	.row3 p{
-		width:75%;
-		text-align: left;
+		width:80%;
+		text-align: center;
+		margin-left: 30px;
 		font-size: 25px;
 	}
 
