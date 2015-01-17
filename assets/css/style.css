@@ -508,20 +508,18 @@ body #home{
 	}
 
 	#contact-me h2{
-		font-size: 60px;
+		font-size: 30px;
 		margin-top: 20px;
 		text-align: center;
-		display:none;
 	}
 
 
 	#contact-me p{
 		font-size:30px;
-		width:300px;
+		width:80%;
 		text-align: center;
-		margin-left: 80px;
-		margin-bottom: 20px;
-
+		margin-right: 80px;
+		
 	}
 	#contact-bottom{
 		border-top: none;
