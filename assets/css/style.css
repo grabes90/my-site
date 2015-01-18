@@ -420,28 +420,18 @@ body #home{
 
 	}
 
-	#contact-bottom a{
-		font-size: 20px;
-		margin-left: 148px;
-		text-align: center;
-		width:100%;
-
-	}
-
 	#contact-bottom a:hover{
 		font-size:20px;
 	}
 
 	#contact-bottom p{
-		text-align: center;
-		width:100%;
-		margin-left: 130px;
+	
 		display:none;
 	}
 
 	#bottom-info{
 		float:none;
-		margin-left: 70px;
+		margin-left: 55px;
 		margin-top: 10px;
 		font-size: 15px;
 		text-align: center;
@@ -532,7 +522,8 @@ body #home{
 
 	}
 	#contact-bottom a{
-		margin-left:90px;
+		margin-left:150px;
+		font-size: 25px;
 		
 	}
 
